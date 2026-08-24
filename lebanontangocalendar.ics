@@ -1,10 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Beirut Tango Calendar//EN
+PRODID:-//Lebanon Argentine Tango Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-TIMEZONE:Asia/Beirut
-X-WR-CALNAME:Beirut Tango August 2026
+X-WR-CALNAME:Lebanon Tango Calendar
 
 BEGIN:VEVENT
 UID:20260802T190000-20260803T000000-SalonBeyrouth@tangobeirut.com
